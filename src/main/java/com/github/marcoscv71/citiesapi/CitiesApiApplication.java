@@ -1,4 +1,4 @@
-package com.gittub.marcoscv71.citiesapi;
+package com.github.marcoscv71.citiesapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
