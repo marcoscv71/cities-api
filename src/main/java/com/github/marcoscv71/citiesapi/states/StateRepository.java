@@ -1,4 +1,4 @@
-package com.github.marcoscv71.citiesapi.staties;
+package com.github.marcoscv71.citiesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

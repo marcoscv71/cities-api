@@ -1,6 +1,5 @@
-package com.github.marcoscv71.citiesapi.staties;
+package com.github.marcoscv71.citiesapi.states;
 
-import com.github.marcoscv71.citiesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
